@@ -1,0 +1,8 @@
+{
+    "BASE_URL" : "http://localhost:8080",
+    "PORT" : 8080,
+    "HOST" : "0.0.0.0",
+    "DB_URL" : "mongodb://localhost:27017/DB_HMS",
+    "JWT_KEY": "This_is_my_secret_key",
+    "AUTH_HEADER": "X-Token"
+}

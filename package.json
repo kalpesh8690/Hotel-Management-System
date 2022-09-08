@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "handlebars": "^4.7.7",
+    "handlebars-layouts": "^3.1.4"
+  }
+}
